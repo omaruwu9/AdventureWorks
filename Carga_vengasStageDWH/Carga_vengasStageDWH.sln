@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35229.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Carga_vengasStageDWH", "Carga_vengasStageDWH\Carga_vengasStageDWH.dtproj", "{419C0704-3723-4023-BC24-D482FBA5936B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{419C0704-3723-4023-BC24-D482FBA5936B}.Development|Default.ActiveCfg = Development
+		{419C0704-3723-4023-BC24-D482FBA5936B}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1356094-473E-4F78-9430-9228E608AA6B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35229.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "HDExtraer2024", "HDExtraer2024\HDExtraer2024.dtproj", "{0641B45F-83EC-4807-A375-7FDD609164D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0641B45F-83EC-4807-A375-7FDD609164D2}.Development|Default.ActiveCfg = Development
+		{0641B45F-83EC-4807-A375-7FDD609164D2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F38048A4-601A-4FD8-AAB1-317F576A6C53}
+	EndGlobalSection
+EndGlobal

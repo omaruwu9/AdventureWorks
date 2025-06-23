@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35229.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "transformaDH", "transformaDH\transformaDH.dtproj", "{E140A462-6292-4EEB-BCC1-DF429F68175B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E140A462-6292-4EEB-BCC1-DF429F68175B}.Development|Default.ActiveCfg = Development
+		{E140A462-6292-4EEB-BCC1-DF429F68175B}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76ACF72A-1193-4B9D-9E6E-7922E81EB4FD}
+	EndGlobalSection
+EndGlobal
